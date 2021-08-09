@@ -1,0 +1,13 @@
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\bin\Debug\netcoreapp3.1\Writeline-Readlıne.exe
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\bin\Debug\netcoreapp3.1\Writeline-Readlıne.deps.json
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\bin\Debug\netcoreapp3.1\Writeline-Readlıne.runtimeconfig.json
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\bin\Debug\netcoreapp3.1\Writeline-Readlıne.runtimeconfig.dev.json
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\bin\Debug\netcoreapp3.1\Writeline-Readlıne.dll
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\bin\Debug\netcoreapp3.1\Writeline-Readlıne.pdb
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\obj\Debug\netcoreapp3.1\Writeline-Readlıne.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\obj\Debug\netcoreapp3.1\Writeline-Readlıne.AssemblyInfoInputs.cache
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\obj\Debug\netcoreapp3.1\Writeline-Readlıne.AssemblyInfo.cs
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\obj\Debug\netcoreapp3.1\Writeline-Readlıne.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\obj\Debug\netcoreapp3.1\Writeline-Readlıne.dll
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\obj\Debug\netcoreapp3.1\Writeline-Readlıne.pdb
+C:\Users\DEDEC\Desktop\C#\Writeline-Readlıne\Writeline-Readlıne\obj\Debug\netcoreapp3.1\Writeline-Readlıne.genruntimeconfig.cache
