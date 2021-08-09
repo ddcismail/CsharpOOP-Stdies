@@ -23,7 +23,7 @@ namespace Casting
             double f = 24;
             int g;
             g = Convert.ToInt32(f);//Convert
-            string g = f.ToString(); // ToString her değişken türüne çevriliri.
+            string b= f.ToString(); 
         }
     }
 }
