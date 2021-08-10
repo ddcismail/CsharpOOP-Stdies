@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalıtım_inheritance_stj", "Kalıtım_inheritance_stj\Kalıtım_inheritance_stj.csproj", "{E0D209BB-D47A-4F5D-A661-C61D3D3FF819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D209BB-D47A-4F5D-A661-C61D3D3FF819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D209BB-D47A-4F5D-A661-C61D3D3FF819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D209BB-D47A-4F5D-A661-C61D3D3FF819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D209BB-D47A-4F5D-A661-C61D3D3FF819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E62A8C46-AA80-4BFD-BF2D-1515E40D653A}
+	EndGlobalSection
+EndGlobal
