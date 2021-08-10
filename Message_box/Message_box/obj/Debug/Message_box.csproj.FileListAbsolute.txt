@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\C#\Message_box\Message_box\bin\Debug\Message_box.exe.config
+C:\Users\DEDEC\Desktop\C#\Message_box\Message_box\bin\Debug\Message_box.exe
+C:\Users\DEDEC\Desktop\C#\Message_box\Message_box\bin\Debug\Message_box.pdb
+C:\Users\DEDEC\Desktop\C#\Message_box\Message_box\obj\Debug\Message_box.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\C#\Message_box\Message_box\obj\Debug\Message_box.Form1.resources
+C:\Users\DEDEC\Desktop\C#\Message_box\Message_box\obj\Debug\Message_box.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\C#\Message_box\Message_box\obj\Debug\Message_box.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\C#\Message_box\Message_box\obj\Debug\Message_box.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\C#\Message_box\Message_box\obj\Debug\Message_box.exe
+C:\Users\DEDEC\Desktop\C#\Message_box\Message_box\obj\Debug\Message_box.pdb
