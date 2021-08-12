@@ -1,0 +1,11 @@
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\bin\Debug\DataTransfer.exe.config
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\bin\Debug\DataTransfer.exe
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\bin\Debug\DataTransfer.pdb
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\obj\Debug\DataTransfer.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\obj\Debug\DataTransfer.Form1.resources
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\obj\Debug\DataTransfer.frmShowData.resources
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\obj\Debug\DataTransfer.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\obj\Debug\DataTransfer.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\obj\Debug\DataTransfer.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\obj\Debug\DataTransfer.exe
+C:\Users\DEDEC\Desktop\C#\DataTransfer\DataTransfer\obj\Debug\DataTransfer.pdb

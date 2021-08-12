@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTransfer", "DataTransfer\DataTransfer.csproj", "{9330DE46-05D6-4F90-8743-B19CBF462B26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9330DE46-05D6-4F90-8743-B19CBF462B26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9330DE46-05D6-4F90-8743-B19CBF462B26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9330DE46-05D6-4F90-8743-B19CBF462B26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9330DE46-05D6-4F90-8743-B19CBF462B26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A96A16D-6AF8-4D7C-9B68-F12DCC5A2300}
+	EndGlobalSection
+EndGlobal
