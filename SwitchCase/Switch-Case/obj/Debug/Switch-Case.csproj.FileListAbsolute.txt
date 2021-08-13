@@ -1,0 +1,10 @@
+C:\Users\DEDEC\Desktop\C#\Switch-Case\Switch-Case\bin\Debug\Switch-Case.exe.config
+C:\Users\DEDEC\Desktop\C#\Switch-Case\Switch-Case\bin\Debug\Switch-Case.exe
+C:\Users\DEDEC\Desktop\C#\Switch-Case\Switch-Case\bin\Debug\Switch-Case.pdb
+C:\Users\DEDEC\Desktop\C#\Switch-Case\Switch-Case\obj\Debug\Switch-Case.csproj.AssemblyReference.cache
+C:\Users\DEDEC\Desktop\C#\Switch-Case\Switch-Case\obj\Debug\Switch_Case.Form1.resources
+C:\Users\DEDEC\Desktop\C#\Switch-Case\Switch-Case\obj\Debug\Switch_Case.Properties.Resources.resources
+C:\Users\DEDEC\Desktop\C#\Switch-Case\Switch-Case\obj\Debug\Switch-Case.csproj.GenerateResource.cache
+C:\Users\DEDEC\Desktop\C#\Switch-Case\Switch-Case\obj\Debug\Switch-Case.csproj.CoreCompileInputs.cache
+C:\Users\DEDEC\Desktop\C#\Switch-Case\Switch-Case\obj\Debug\Switch-Case.exe
+C:\Users\DEDEC\Desktop\C#\Switch-Case\Switch-Case\obj\Debug\Switch-Case.pdb
